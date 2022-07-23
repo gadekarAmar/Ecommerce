@@ -9,7 +9,7 @@ import javax.persistence.MappedSuperclass;
 
 import lombok.Getter;
 import lombok.Setter;
-
+//checking git
 //common super class for all entities
 @MappedSuperclass
 /*

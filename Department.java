@@ -5,7 +5,7 @@ import javax.persistence.*;
 
 import lombok.Getter;
 import lombok.Setter;
-
+//checking git
 @Entity
 @Table(name = "dept_tbl")
 @Getter
