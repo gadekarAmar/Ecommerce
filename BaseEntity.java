@@ -9,6 +9,7 @@ import javax.persistence.MappedSuperclass;
 
 import lombok.Getter;
 import lombok.Setter;
+//this ids firest week branch need to merge in to Aug main baranch
 //checking git
 //common super class for all entities
 @MappedSuperclass
